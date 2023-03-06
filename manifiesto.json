@@ -1,0 +1,31 @@
+{
+    "name": "Paleteria Lupita",
+    "short_name": "WEB PWA",
+    "description": "Aplicacion creada para paleteria",
+    "theme_color": "#764ba2",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "icons/ic_launcher1.png",
+            "size": "196x196",
+            "type":"image/png"
+        },
+        {
+            "src": "icons/ic_launcher2.png",
+            "size": "216x216",
+            "type":"image/png"
+        },
+        {
+            "src": "icons/ic_launcher3.png",
+            "size": "512x512",
+            "type":"image/png"
+        },
+        {
+            "src": "icons/ic_launcher4.png",
+            "size": "1024x1024",
+            "type":"image/png"
+        }
+    ]
+}
