@@ -12,7 +12,7 @@ const APP_SHELL =[
     "/img/chispas2.jpg",
     "/img/paleteri.jpg"
 
-];
+]; 
 self.addEventListener("install", (e) => {
     console.log("intalar");
     const cahceStatic = caches
